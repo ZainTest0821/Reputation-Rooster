@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="C:/Users/Fast Computers/IdeaProjects/ReputationRooster(failed)">
+    <classes>
+      <class name="ReputationRooster">
+        <methods>
+          <include name="teardown"/>
+          <include name="testallthebuttons"/>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- ReputationRooster -->
+    </classes>
+  </test> <!-- C:/Users/Fast Computers/IdeaProjects/ReputationRooster(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
